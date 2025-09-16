@@ -7,3 +7,4 @@
 **/.env*
 **/.npmrc
 .npmrcmicroservices/*/.npmrc
+microservices/*/.npmrc
