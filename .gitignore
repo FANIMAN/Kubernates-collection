@@ -1,0 +1,9 @@
+.DS_Store
+**/.env.dev
+
+
+
+
+**/.env*
+**/.npmrc
+.npmrcmicroservices/*/.npmrc
